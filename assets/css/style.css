@@ -1,0 +1,13 @@
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 30vh; /* Optionnel : pour centrer verticalement sur toute la hauteur de la page */
+  }
+
+.round-image {
+    width: 150px; /* Taille de l'image */
+    height: 150px; /* Assurez-vous que la hauteur et la largeur sont égales */
+    border-radius: 50%; /* Rend l'image ronde */
+    object-fit: cover; /* Ajuste l'image pour qu'elle remplisse le cercle */
+    margin: 20px auto; /* Centrer l'image avec un espacement */
+  }
