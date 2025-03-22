@@ -21,13 +21,13 @@
 title: Julien Moreau
 email: julien [dot] moreau [at] inria [dot] fr
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a PhD student in the ARGO team at Inria Paris, this is my personal website.
+  Personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
 github_username:  j-moreau
-
+linkedin_username: julien-moreau-vs
 # Build settings
 theme: minima
 # plugins:
