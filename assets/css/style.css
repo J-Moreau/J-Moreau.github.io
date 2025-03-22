@@ -1,7 +1,9 @@
 .centered-content {
     display: flex;
     flex-direction: column;
-    min-height: 30vh; /* Optionnel : pour centrer verticalement sur toute la hauteur de la page */
+/*    justify-content: center;
+    align-items: center;
+*/
   }
 
 .round-image {
