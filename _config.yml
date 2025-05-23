@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Julien Moreau
-email: x.y@z.fr with x=julien y=moreau and z=inria
+email: firstname.lastname@inria.fr
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Personal website
 
