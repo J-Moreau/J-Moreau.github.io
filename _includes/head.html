@@ -8,4 +8,16 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  
+  <script>
+    function scrollToPublications() {
+      const publicationsSection = document.getElementById('publications');
+      if (publicationsSection) {
+        publicationsSection.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    }
+  </script>
 </head>

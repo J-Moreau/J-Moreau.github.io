@@ -13,3 +13,25 @@
     object-fit: cover; /* Ajuste l'image pour qu'elle remplisse le cercle */
     margin: 20px auto; /* Centrer l'image avec un espacement */
   }
+
+/* Publications section styling */
+#publications {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+#publications h2 {
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Highlight the publications menu item on hover */
+.site-nav .page-link:hover {
+  color: #2a7ae4;
+}
