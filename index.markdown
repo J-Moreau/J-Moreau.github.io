@@ -12,5 +12,8 @@ My research interests include learning on spatial and temporal data, physics and
 ## Publications
 {: #publications}
 
+- [4DVar Assimilation of Vehicle Probe Data with a Second-Order Macroscopic Traffic Model](https://hal.science/hal-05649935v1/document)  
+  J. Moreau, M. Al-Bakri, M. Lelarge. *IEEE International Conference on Intelligent Transportation Systems (ITSC 2026)*
+
 - [Assimilation of Sparse Vehicle Trajectories with a Macroscopic Traffic Model](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_310.pdf)  
   J. Moreau, M. Lelarge. *Machine Learning for the Physical Sciences Workshop, NeurIPS 2025*
