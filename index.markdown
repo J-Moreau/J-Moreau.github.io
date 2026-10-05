@@ -9,8 +9,13 @@ I'm a PhD student in the [ARGO team](https://www.di.ens.fr/argo/) at [Inria Pari
 I'm working for [Renault](https://www.renaultgroup.com) on vehicle GPS data and traffic flows, led by [Mustafa Al Bakri](https://www.linkedin.com/in/mustafa-al-bakri).  
 My research interests include learning on spatial and temporal data, physics and graphs.
 
-## Publications
+## Preprints
 {: #publications}
+
+- [EnJoi: Ensemble Joint Score Filter for Generative Data Assimilation](https://arxiv.org/abs/2609.35944)  
+  J. Moreau, M. Lelarge. *arxiv preprint (2026)*
+
+## Publications
 
 - [4DVar Assimilation of Vehicle Probe Data with a Second-Order Macroscopic Traffic Model](https://hal.science/hal-05649935v1/document)  
   J. Moreau, M. Al-Bakri, M. Lelarge. *IEEE International Conference on Intelligent Transportation Systems (ITSC 2026)*
